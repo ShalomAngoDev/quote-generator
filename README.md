@@ -1,4 +1,4 @@
-# 📜 Générateur de Citations Aléatoires
+# 📜 Générateur de Marque et slogan Aléatoires
 
 Ce projet est une application web simple permettant de générer un nom de marque et un slogan à partir d'une description d'entreprise. L'outil utilise des dictionnaires (adjectifs, noms, slogans) pour créer des combinaisons aléatoires et propose une première approche intelligente en analysant la description de l'utilisateur.
 
